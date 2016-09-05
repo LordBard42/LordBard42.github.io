@@ -27,6 +27,7 @@
 	body { 
 		background-color: DarkGoldenRod; 
 		color: purple;
+		max-width: 750;
 	}
 	
 	section{
